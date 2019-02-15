@@ -1,0 +1,10 @@
+C:\Users\310296155\Downloads\ShapesandAnnotations-master\ShapesandAnnotations-master\ShapesandAnnotations\bin\Debug\ShapesandAnnotations.exe.config
+C:\Users\310296155\Downloads\ShapesandAnnotations-master\ShapesandAnnotations-master\ShapesandAnnotations\bin\Debug\ShapesandAnnotations.exe
+C:\Users\310296155\Downloads\ShapesandAnnotations-master\ShapesandAnnotations-master\ShapesandAnnotations\bin\Debug\ShapesandAnnotations.pdb
+C:\Users\310296155\Downloads\ShapesandAnnotations-master\ShapesandAnnotations-master\ShapesandAnnotations\obj\Debug\ShapesandAnnotations.csprojAssemblyReference.cache
+C:\Users\310296155\Downloads\ShapesandAnnotations-master\ShapesandAnnotations-master\ShapesandAnnotations\obj\Debug\ShapesandAnnotations.Form1.resources
+C:\Users\310296155\Downloads\ShapesandAnnotations-master\ShapesandAnnotations-master\ShapesandAnnotations\obj\Debug\ShapesandAnnotations.Properties.Resources.resources
+C:\Users\310296155\Downloads\ShapesandAnnotations-master\ShapesandAnnotations-master\ShapesandAnnotations\obj\Debug\ShapesandAnnotations.csproj.GenerateResource.cache
+C:\Users\310296155\Downloads\ShapesandAnnotations-master\ShapesandAnnotations-master\ShapesandAnnotations\obj\Debug\ShapesandAnnotations.csproj.CoreCompileInputs.cache
+C:\Users\310296155\Downloads\ShapesandAnnotations-master\ShapesandAnnotations-master\ShapesandAnnotations\obj\Debug\ShapesandAnnotations.exe
+C:\Users\310296155\Downloads\ShapesandAnnotations-master\ShapesandAnnotations-master\ShapesandAnnotations\obj\Debug\ShapesandAnnotations.pdb
